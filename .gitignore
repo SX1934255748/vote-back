@@ -1,2 +1,3 @@
 /node_modules
 vote.sqlite3
+/uploads/*
